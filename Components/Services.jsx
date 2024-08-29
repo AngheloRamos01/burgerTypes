@@ -16,8 +16,8 @@ const Services = () => {
         <div className="text-center md:w-[30%]">
           <h3 className="py-10">Dine-in</h3>
           <p>
-            orem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has bee 1
+            You can enjoy our beautiful yet exquisite place where the staff is
+            accomodating and friendly
           </p>
         </div>
       </div>
@@ -25,8 +25,8 @@ const Services = () => {
         <div className="text-center md:w-[30%] order-2 md:order-1">
           <h3 className="py-10">Delivery</h3>
           <p>
-            orem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has bee 1
+            Hussle in going out? Stress in looking for a transportaion? fear not
+            for we'll deliver it to your doorstep. Just call and order.
           </p>
         </div>
         <img

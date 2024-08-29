@@ -9,8 +9,8 @@ const Contact = () => {
           Contact Us
         </h2>
         <p className="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">
-          Got a technical issue? Want to send feedback about a beta feature?
-          Need details about our Business plan? Let us know.
+          What do you waiting for go to our nearest store near you or order it
+          now! Got any concern? Contact Us.
         </p>
         <form action="#" className="space-y-8 px-10 md:px-52">
           <div className="flex items-center justify-center gap-10 ">

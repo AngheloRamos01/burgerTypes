@@ -56,7 +56,7 @@ const Footer = () => {
         <div className="flex flex-col  gap-5">
           <div>
             <HiOutlineMail size={20} />
-            <p>example@gmail.com</p>
+            <p>tastelikeheaven@gmail.com</p>
           </div>
           <div>
             <IoIosCall size={20} />

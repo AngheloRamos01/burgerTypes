@@ -12,32 +12,28 @@ const Reviews = () => {
       id: 1,
       img: "https://images.unsplash.com/photo-1529973565457-a60a2ccf750d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGVhdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       rating: 4,
-      content:
-        "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has bee 1",
+      content: "So yummy, so Juicy, yet not greesy",
       name: "Mark Mark Jr.",
     },
     {
       id: 2,
       img: "https://images.unsplash.com/photo-1565556250012-df4770229a80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGVhdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      rating: 3,
-      content:
-        "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has bee 1",
+      rating: 4,
+      content: "It taste like heaven",
       name: "Glamourous",
     },
     {
       id: 3,
       img: "https://images.unsplash.com/photo-1564758913551-7212727c4b08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGVhdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      rating: 2,
-      content:
-        "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has bee 1",
+      rating: 4,
+      content: "Instagramable",
       name: "Fabolous",
     },
     {
       id: 4,
       img: "https://images.unsplash.com/photo-1564758913551-7212727c4b08?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGVhdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      rating: 1,
-      content:
-        "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has bee 1",
+      rating: 4,
+      content: "Its my new Favourite, gonna go back here again",
       name: "Fabolous",
     },
   ];
