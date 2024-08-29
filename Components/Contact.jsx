@@ -13,7 +13,7 @@ const Contact = () => {
           now! Got any concern? Contact Us.
         </p>
         <form action="#" className="space-y-8 px-10 md:px-52">
-          <div className="flex items-center justify-center gap-10 ">
+          <div className="flex-col md:flex-row lg:flex items-center justify-center gap-10 ">
             <div className="w-full">
               <label
                 for="text"
